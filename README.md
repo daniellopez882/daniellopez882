@@ -1,78 +1,85 @@
 <div align="center">
-  <img src="./header.png?raw=true" alt="Header" width="100%" />
+  <img src="./header.png?raw=true" alt="Daniel Lopez Orta - Senior Full Stack Developer" width="100%" />
 </div>
 
 <div align="center">
-  <h1>Hi, I’m Daniel Lopez Orta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  <h3>🚀 Python | ⚛️ React | 🐘 PHP</h3>
+  <h1 style="font-size: 2.5rem; font-weight: bold;">Daniel López Orta</h1>
+  <p style="font-size: 1.2rem; margin-top: -15px;">
+    <b>Full-Stack Engineer (Python / PHP / React) & AI Specialist</b>
+  </p>
   
   <p>
-    <em>Passionate about building scalable web applications, automation tools, and data-driven AI solutions.</em>
+    <em>Building scalable web architectures, automating complex workflows, and deploying AI solutions to production.</em>
   </p>
 
-  <a href="mailto:daniellopezorta39@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/daniellopez882">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <p>
+    <a href="mailto:daniellopezorta39@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/daniellopez882">
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 💼 Engineering Profile
 
-> **"Code is not just lines on a screen; it’s a tool to create, solve, and transform ideas into reality."**
+I am a results-oriented developer bridging the gap between **robust backend logic** and **dynamic frontend experiences**. My approach focuses on writing clean, maintainable code and designing systems that scale.
 
-I am a versatile developer moving fluidly between **Backend** logic and **Frontend** interactivity. I specialize in **Python** for automation and AI, **PHP** for robust server-side scripting, and **React** for building dynamic user interfaces.
-
-- **😄 Pronouns:** He/Him
-- **🔭 Current Focus:** Full-stack development (Python/PHP/React) & AI integration.
-- **🌱 Currently Learning:** Advanced React Hooks, Modern PHP Frameworks, and ML Pipelines.
-- **🧩 Hobbies:** Exploring new tech, traveling, cooking, and gaming.
-- **📚 Reading:** *The Millionaire Next Door* & *The Upward Spiral*.
+| **Core Competency** | **Description** |
+| :--- | :--- |
+| 🚀 **Full-Stack Engineering** | Expertise in **React** for reactive UIs, backed by **PHP** and **Python** microservices. |
+| 🤖 **AI & Data Pipelines** | Integrating **ML models** into web apps using Python, Pandas, and TensorFlow. |
+| ⚙️ **DevOps & Automation** | Streamlining workflows with automated scripts, **Docker**, and CI/CD best practices. |
 
 ---
 
-<div align="center">
-  <h2>🛠️ The Tech Stack</h2>
+### 🛠️ Technical Arsenal
 
+<div align="center">
+
+  <h3 align="left">🔹 Frontend Architecture</h3>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5_&_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <br /><br />
+
+  <h3 align="left">🔹 Backend & Infrastructure</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br />
-
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <br />
-
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <br />
-
+  <img src="https://img.shields.io/badge/Flask-Microservices-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <br /><br />
+
+  <h3 align="left">🔹 AI & Data Science</h3>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 Contributions & Activity
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daniellopez882&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&text_color=999&icon_color=3776AB&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellopez882&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=999&icon_color=3776AB&hide=jupyter%20notebook" height="150" alt="languages graph" />
 </div>
 
 ---
 
 <div align="center">
-  <h2>📊 GitHub Statistics</h2>
-  <a href="https://github.com/daniellopez882">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniellopez882&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellopez882&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <p>🤝 <b>Open to Collaboration!</b> Let's discuss Python, PHP, React, or AI projects.</p>
-  <p><a href="mailto:daniellopezorta39@gmail.com">daniellopezorta39@gmail.com</a></p>
+  <h3>Let's build something scalable.</h3>
+  <p>Available for consulting and engineering collaborations.</p>
+  <p>
+    <a href="mailto:daniellopezorta39@gmail.com" style="text-decoration: none;">
+      <strong>📧 daniellopezorta39@gmail.com</strong>
+    </a>
+  </p>
 </div>
