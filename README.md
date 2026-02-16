@@ -68,8 +68,9 @@ I am a results-oriented developer bridging the gap between **robust backend logi
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=daniellopez882&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&text_color=999&icon_color=3776AB&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellopez882&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=999&icon_color=3776AB&hide=jupyter%20notebook" height="150" alt="languages graph" />
+  <img src=![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniellopez882&show_icons=true&theme=radical)" />
+  <img src="![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellopez882&layout=compact&theme=radical)
+" height="150" alt="languages graph" />
 </div>
 
 ---
