@@ -1,193 +1,198 @@
 <div align="center">
-  <img src="agentic_ai_banner_daniel.png" alt="Daniel López Orta - Agentic AI Engineer" width="100%" />
-  
-  <br />
-  
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Daniel+López+Orta;Agentic+AI+Architect+|+Autonomous+Systems+Engineer" alt="Typing SVG" />
-  
-  ### Architecting Large Action Models (LAMs) & Autonomous Multi-Agent Orchestration
+
+<!-- Dynamic Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Hi%2C+I'm+Daniel+L%C3%B3pez+Orta+%F0%9F%91%8B;Architecting+Autonomous+Intelligence+at+Scale" alt="Typing SVG" /></a>
+
+<br/>
+
+### **Agentic AI Systems Architect | Building Machines That Reason, Reflect & Self-Correct**
+
+<br/>
+
+<!-- Expertise Badges -->
+![EXPERTISE](https://img.shields.io/badge/EXPERTISE-AGENTIC_AI-00D9FF?style=for-the-badge&labelColor=0a0a0a)
+![MULTI-AGENT SYSTEMS](https://img.shields.io/badge/MULTI--AGENT-SYSTEMS-FF6B35?style=for-the-badge&labelColor=0a0a0a)
+![ORCHESTRATOR](https://img.shields.io/badge/ORCHESTRATOR-LANGGRAPH_%7C_CREWAI-7B2FBE?style=for-the-badge&labelColor=0a0a0a)
+![RAG PIPELINES](https://img.shields.io/badge/RAG-PIPELINES-00C853?style=for-the-badge&labelColor=0a0a0a)
+![STATUS](https://img.shields.io/badge/STATUS-OPEN_TO_INNOVATE-FF2D55?style=for-the-badge&labelColor=0a0a0a)
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniellopezorta39@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-daniellopez882-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniellopez882)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d0f3a4855e25d0a1)
+
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/DOMAIN-Agentic_AI-58A6FF?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/ORCHESTRATION-Multi--Agent_Systems-F78166?style=for-the-badge&logo=crewai&logoColor=white" alt="Multi-Agent Systems" />
-  <img src="https://img.shields.io/badge/STACK-MCP_/_LangGraph_/_PydanticAI-3FB950?style=for-the-badge&logo=python&logoColor=white" alt="Stack" />
-  <img src="https://img.shields.io/badge/REASONING-ReAct_/_Plan--Execute-D29922?style=for-the-badge" alt="Patterns" />
-  <img src="https://img.shields.io/badge/STATUS-Engineering_Excellence-8B5CF6?style=for-the-badge" alt="Status" />
-</div>
+---
 
-<br />
+## 🏗️ Engineering Philosophy
 
-### 🏛️ Engineering Philosophy: Beyond Chatbots
+> *"Static automation is dead. I build **Autonomous Perception-Action Loops** — systems that don't just execute instructions, they reason through ambiguity, reflect on outcomes, and self-correct in real-time."*
 
-> *"I don't build chatbots that autocomplete; I architect autonomous intelligence systems that reason, plan, and execute with deterministic precision."*
+With deep expertise spanning **full-stack engineering** and **agentic AI**, I bridge the gap between LLM capabilities and production-grade reliability. I architect multi-agent systems where autonomous agents collaborate to solve non-linear problems — ensuring traceability, human-aligned execution, and enterprise-grade resilience.
 
-My work focuses on the transition from **Large Language Models (LLMs)** to **Large Action Models (LAMs)**. I specialize in building agents capable of navigating high-stakes environments through structured reasoning, hierarchical planning, and self-correcting perception-action loops. My mission is to bridge the gap between raw AI capability and production-grade reliability.
+My systems don't just respond — **they think.**
 
-<br />
+---
 
-### 🧠 The Cognitive Loop: Agentic Reasoning & Action
+## 🚀 The Agentic Intelligence Lab
 
-```text
-       ┌──────────────────────────────────────────────────────────┐
-       │                      PERCEPTION LAYER                    │
-       │    (Environment Sensing | Tool Output | User Input)      │
-       └──────────────┬─────────────────────────────┬─────────────┘
-                      │                             │
-       ┌──────────────▼──────────────┐       ┌──────▼─────────────┐
-       │           REASON            │       │   MEMORY SYSTEM    │
-       │  (State Analysis & Logic)   │◄─────►│ (Long/Short Term)  │
-       └──────────────┬──────────────┘       └──────▲─────────────┘
-                      │                             │
-       ┌──────────────▼──────────────┐              │        [MCP PROTOCOL]
-       │             PLAN            │              │      Standardizing Tool
-       │  (Task Decomp & Strategy)   │              │     & Context Connection
-       └──────────────┬──────────────┘              │              │
-                      │                             │              │
-       ┌──────────────▼──────────────┐              │              ▼
-       │           EXECUTE           │              │      ┌──────────────┐
-       │   (Tool Use | MCP Calls)    │──────────────┴─────►│    ACTION    │
-       └──────────────┬──────────────┘                     └──────────────┘
-                      │                             
-       ┌──────────────▼──────────────┐              
-       │           EVALUATE          │              
-       │   (Reflect & Validation)    │              
-       └──────────────┬──────────────┘              
-                      │                             
-       ┌──────────────▼──────────────┐              
-       │         SELF-CORRECT        │              
-       │   (Trajectory Adjustment)   │──────────────┘
-       └─────────────────────────────┘
-```
+<sub>Below are my flagship autonomous systems, engineered for high-stakes production environments.</sub>
 
-<br />
+<table>
+<tr>
+<td width="50%">
 
-### 🚀 Flagship Autonomous Systems (The Agentic Intelligence Lab)
+### 🔴 Agent Framework
+**Autonomous Reasoning Engine**
 
-Below are my lead-architect projects, engineered for high-stakes, industrial, and specialized environments.
+A powerful Python foundation for building sophisticated, context-aware AI agents with distinct personas, structured reasoning loops, and cognitive memory layers.
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="left">
-      ⚡ <b><a href="https://github.com/daniellopez882/DevOps-AI-Engineer-Agent">DevOps AI Engineer Agent</a></b><br />
-      <i>"Self-Healing Autonomous Infrastructure"</i><br /><br />
-      An industrial-grade SRE agent that orchestrates AWS, CI/CD pipelines, and incident response. It analyzes production failures and deploys self-healing patches without human oversight.
-      <br /><br />
-      <code>Python</code> <code>AWS</code> <code>Autonomous SRE</code> <code>n8n</code>
-    </td>
-    <td width="50%" align="left">
-      💻 <b><a href="https://github.com/daniellopez882/Cognitive-Code-Architect-Debugging-Agent">Cognitive Code Architect</a></b><br />
-      <i>"Cyclic Reasoning & Deep Auditing"</i><br /><br />
-      A premium autonomous system for deep code auditing. Built on a cyclic architecture with 11 specialized reasoning nodes to mirror the mental clarity of a principal engineer.
-      <br /><br />
-      <code>LangGraph</code> <code>Principal AI</code> <code>Cognitive Nodes</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="left">
-      🛡️ <b><a href="https://github.com/daniellopez882/Autonomous-Multi-Agent-Offensive-Security">Offensive Security Swarm</a></b><br />
-      <i>"The Future of Autonomous Red Teaming"</i><br /><br />
-      Orchestrating agents to automate phishing analysis, polymorphic malware detection, and manual penetration testing sequences in an era of AI-driven threats.
-      <br /><br />
-      <code>Offensive AI</code> <code>Cybersecurity</code> <code>Multi-Agent Swarm</code>
-    </td>
-    <td width="50%" align="left">
-      ⚖️ <b><a href="https://github.com/daniellopez882/Legal-Assistant-Agent-with-MCP">Legal Assistant (MCP-First)</a></b><br />
-      <i>"High-Precision Reasoning + Protocol"</i><br /><br />
-      Specialized legal platform (LexPilot) utilizing the **Model Context Protocol (MCP)** to automate contract review and track complex legal reasoning chains with perfect recall.
-      <br /><br />
-      <code>MCP</code> <code>Legal Intelligence</code> <code>PydanticAI</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="left">
-       📣 <b><a href="https://github.com/daniellopez882/Social-Media-Autopilot-Agent-with-MCP">Social-Media Autopilot</a></b><br />
-      <i>"Autonomous Marketing Life-Cycles"</i><br /><br />
-      Enterprise-grade system (SocialPilot) that handles trend discovery, content creation with safety validation, and automated scheduling via MCP-connected tools.
-      <br /><br />
-      <code>Marketing AI</code> <code>Autonomous Content</code> <code>MCP</code>
-    </td>
-    <td width="50%" align="left">
-      🏥 <b><a href="https://github.com/daniellopez882/Autonomous-Insurance-Claims-Processor-System">Insurance Claims OS</a></b><br />
-      <i>"Enterprise-Scale Decision Pipelines"</i><br /><br />
-      A massive 4-agent cognitive pipeline that transforms 4-day manual insurance claims into 4-minute automated decision pipes with built-in fraud detection.
-      <br /><br />
-      <code>Business Synthesis</code> <code>Fraud Analysis</code> <code>Workflow OS</code>
-    </td>
-  </tr>
+`LangGraph` `PydanticAI` `Python` `FastAPI`
+
+</td>
+<td width="50%">
+
+### 🌐 Agentic Browser
+**Autonomous Web Intelligence**
+
+An advanced AI-driven tool for automating complex web interactions — form filling, data extraction, and intelligent web research through autonomous browsing agents.
+
+`PydanticAI` `Playwright` `Python` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📄 AuraGen OCR
+**Intelligent Document Perception**
+
+Advanced Document AI combining OCR, layout analysis, reading order detection, and table recognition into a unified autonomous document understanding pipeline.
+
+`Computer Vision` `OCR` `Python` `Deep Learning`
+
+</td>
+<td width="50%">
+
+### 🧠 END-TO-END RAG System
+**Knowledge-Augmented Intelligence**
+
+A production-grade Retrieval-Augmented Generation system leveraging LangChain, Llama 2, and Pinecone for intelligent document Q&A at scale.
+
+`LangChain` `Llama 2` `Pinecone` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏨 Bezeen.pro
+**AI Hotel Intelligence Platform**
+
+An AI-powered hotel intelligence platform automating digital presence optimization, routine operations, and visibility across booking channels.
+
+`Full-Stack` `AI/ML` `React` `Python`
+
+</td>
+<td width="50%">
+
+### ⚙️ AxiomCore
+**Enterprise Workflow Engine**
+
+A full-stack platform for complex internal workflows, real-time data operations, and role-based system access in production environments.
+
+`React` `Node.js` `Python` `Docker`
+
+</td>
+</tr>
 </table>
 
-<br />
+---
 
-### 🔧 The Sophisticated Intelligence Stack
+## 🔧 The Global Intelligence Stack
 
-| Layer | Technologies & Frameworks |
-| :--- | :--- |
-| **Logic Engines** | GPT-4o, Claude 3.5 Sonnet, Gemini 2.0 Pro, DeepSeek-V3, Llama 3.1 |
-| **Orchestration** | LangGraph (Stateful Graph Logic), CrewAI (Hierarchical Swarms), PydanticAI, Phidata |
-| **Connectivity** | **Model Context Protocol (MCP)**, n8n (Agentic Workflows), Function Calling, API Toolkits |
-| **Reasoning Patterns** | ReAct (Reason+Act), Cyclic Reasoning, Plan-and-Execute, Reflection Loops |
-| **Knowledge & RAG** | Pinecone, ChromaDB, FAISS, GraphRAG, Hybrid Search Pipelines |
-| **Infrastructure** | Python (FastAPI), Docker, GitHub Actions CI/CD for Agents, React Frontends |
+| Layer | Core Technologies |
+|:------|:-----------------|
+| **🧠 Logic Engines** | GPT-4o, Claude 3.5 Sonnet, Llama 2/3, DeepSeek-V3, Gemini 2.0 |
+| **🤖 Agentic Frameworks** | LangGraph (Stateful Logic), LangChain, CrewAI (Role-based), PydanticAI, AutoGen |
+| **🔗 RAG & Knowledge** | Pinecone, ChromaDB, FAISS, LlamaIndex, Embedding Pipelines |
+| **⚡ Orchestration** | Python (FastAPI/Flask), TypeScript (Node.js/Next.js), React |
+| **🛡️ Backend & APIs** | PHP (Laravel), Python, REST/GraphQL, WebSockets |
+| **🏗️ Ops & Infrastructure** | Docker, AWS, Supabase, Redis, CI/CD Pipelines |
+| **👁️ Computer Vision** | OCR, Layout Analysis, Table Recognition, Document AI |
 
-<br />
+---
 
-### 🔬 Active Research & Development
-
-```python
-class AgenticResearch:
-    def __init__(self):
-        self.focus = [
-            "Hierarchical Multi-Agent Systems for DevSecOps & Red Teaming",
-            "Cyclic Cognitive Architectures for Autonomous Code Auditing",
-            "MCP-Native Ecosystems for Protocol-Standardized Interoperability",
-            "Swarm-based Decision Pipelines for Industrial Enterprise Workflows"
-        ]
-        
-        self.exploring = [
-            "Deterministic State Management for Long-Running Autonomous Agents",
-            "Zero-Shot Web Navigation via Computer-Use & PydanticAI",
-            "Agentic Memory Persistence with LangGraph Checkpointing",
-            "Multi-Modal Reasoning across Audio/Visual Streams"
-        ]
-        
-        self.philosophy = "The future of software is not written; it is architected for autonomous intelligence."
-```
-
-<br />
-
-### 📊 Performance Metrics & Engineering Velocity
+## 📊 Technical Velocity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniellopez882&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellopez882&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellopez882&theme=dark&hide_border=true&background=0D1117&fire=F78166&ring=58A6FF&sideNumbers=C9D1D9" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=daniellopez882&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF6B35&text_color=c9d1d9&ring_color=00D9FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellopez882&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" width="49%" />
+
 </div>
 
-<br />
+<div align="center">
 
-### 🔗 Strategic Transmission & Contact
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellopez882&theme=radical&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=555555" width="70%" />
+
+</div>
 
 <div align="center">
-  <a href="mailto:daniellopezorta39@gmail.com">
-    <img src="https://img.shields.io/badge/Strategy_Consulting-daniellopezorta39@gmail.com-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/daniellopez882">
-    <img src="https://img.shields.io/badge/Agentic_Lab-daniellopez882-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://upwork.com/freelancers/~01d0f3a4855e25d0a1">
-    <img src="https://img.shields.io/badge/Freelance_Contract-Available-3FB950?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
-  </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daniellopez882&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=FF6B35&point=00D9FF&area=true&area_color=00D9FF" width="95%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=daniellopez882&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
+
+</div>
+
+---
+
+## 🔬 What Sets Me Apart
+
+```text
+🎯 AGENTIC REASONING      ████████████████████████░   95%  — Multi-step autonomous decision-making
+🔄 MULTI-AGENT SYSTEMS    ███████████████████████░░   92%  — Collaborative agent orchestration
+🧠 RAG & KNOWLEDGE GRAPHS ████████████████████████░   95%  — Production-grade retrieval pipelines
+⚡ FULL-STACK ENGINEERING  ████████████████████████░   96%  — End-to-end system architecture
+🛡️ PRODUCTION DEPLOYMENT  ███████████████████████░░   90%  — Scalable, fault-tolerant systems
+🤖 LLM INTEGRATION        ████████████████████████░   95%  — Multi-model orchestration & routing
+```
+
+---
+
+## 🔗 Synthesis & Transmission
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-daniellopez882-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/daniellopez882)
+[![Upwork](https://img.shields.io/badge/💼_Hire_Me-Upwork-6FDA44?style=for-the-badge&labelColor=0a0a0a)](https://www.upwork.com/freelancers/~01d0f3a4855e25d0a1)
+[![Email](https://img.shields.io/badge/📧_Business_Inquiry-Email-D14836?style=for-the-badge&labelColor=0a0a0a)](mailto:daniellopezorta39@gmail.com)
+
 </div>
 
 ---
 
 <div align="center">
-  <i>"Reasoning is the ultimate software primitive."</i>
-  <br /><br />
-  Available for specialized contract work, agentic system design, and multi-agent infrastructure implementation.
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=daniellopez882&color=58A6FF&style=flat-square" alt="Profile Views" />
-</div>
 
+> *"Binary logic is the past. Agentic reasoning is the future. I build the machines that think."*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=daniellopez882&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
+
+</div>
